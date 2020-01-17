@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="110cea9e-75af-4bbc-8c67-6493db287426" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="details: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost [2]" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="details: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="studentdetail: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VVOptut2PDKRfYzscOCNMMYxJL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite&#10;mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ojdbc7.jar!/" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.ConnectionEx">
+    <configuration name="BitsetEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bitset.BitsetEx" />
+      <module name="Prima-programs.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bitset.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CollectionsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.CollectionsDemo" />
+      <module name="Prima-programs.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConnectionEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dbconnection.ConnectionEx" />
+      <module name="Prima-programs.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dbconnection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HashtableEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hashtable.HashtableEx" />
+      <module name="Prima-programs.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hashtable.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VectorEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="vector.VectorEx" />
+      <module name="Prima-programs.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="vector.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ConnectionEx" />
+        <item itemvalue="Application.CollectionsDemo" />
+        <item itemvalue="Application.HashtableEx" />
+        <item itemvalue="Application.VectorEx" />
+        <item itemvalue="Application.BitsetEx" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@61dea3bc" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost [2]" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@94e4258" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="110cea9e-75af-4bbc-8c67-6493db287426" name="Default Changelist" comment="" />
+      <created>1577334982568</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577334982568</updated>
+      <workItem from="1577334987158" duration="11997000" />
+      <workItem from="1577420474776" duration="21888000" />
+      <workItem from="1577680183589" duration="10857000" />
+      <workItem from="1577770361695" duration="675000" />
+      <workItem from="1577776437585" duration="3490000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1577447329326">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1577447329326" />
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577445579348">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="26" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577445579348" />
+    <state x="387" y="41" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1577365252398">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="387" y="41" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1366.728@0.0.1366.728" timestamp="1577365252398" />
+    <state x="363" y="173" key="DUMP_DIALOG_DIMENSION_KEY" timestamp="1577443979543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="173" key="DUMP_DIALOG_DIMENSION_KEY/0.0.1366.728@0.0.1366.728" timestamp="1577443979543" />
+    <state width="426" height="466" key="DebuggerActiveHint" timestamp="1577713659540">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="426" height="466" key="DebuggerActiveHint/0.0.1366.728@0.0.1366.728" timestamp="1577713659540" />
+    <state x="389" y="109" key="FileChooserDialogImpl" timestamp="1577447319678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="389" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1577447319678" />
+    <state width="1323" height="229" key="GridCell.Tab.0.bottom" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="1323" height="229" key="GridCell.Tab.0.center" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="1323" height="229" key="GridCell.Tab.0.left" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="1323" height="229" key="GridCell.Tab.0.right" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="1323" height="229" key="GridCell.Tab.1.center" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="1323" height="229" key="GridCell.Tab.1.left" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="1323" height="229" key="GridCell.Tab.1.right" timestamp="1577713914623">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="229" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1577713914623" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1577445192138">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1366.728@0.0.1366.728" timestamp="1577445192138" />
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1577776438234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1577776438234" />
+    <state x="65" y="0" key="new project wizard" timestamp="1577783171593">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1577783171593" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1577681950521">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1577681950521" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1577712925277">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1577712925277" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dbconnection/ConnectionEx.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
